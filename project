@@ -1,0 +1,1720 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saraswat Jr. college of science </title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
+
+</head>
+
+
+<body>
+    <!--navigation-->
+   <nav>
+       <img src="LOGOS/sasa.png" alt="">
+       <div class="navigation">
+           <ul>
+               <li><a href="sarsawat.html">Home</a></li>
+               <li><a href="about.html">About</a></li>
+               <li><a href="blog.html">Blog</a></li>
+               <li><a href="courses.html">Courses</a></li>
+               <li><a class="active" href="contact.html">Contact</a></li>
+
+           </ul>
+       </div>
+   </nav>
+
+   <!--Home-->
+   
+   <section id="about-home">
+       <h2>Contact us </h2>    
+   </section>
+     
+
+       <section id="contact">
+             <div class="getin">
+                 <h2>Get in Touch</h2>
+                 <p>Looking for help? Fill thr foem and start a new adventure.</p>
+
+                <div class="getin-details">7
+                   <h3>Address</h3> 
+                   <div>
+                      <i class="far fa-home get"></i>
+                      <p>Near Murmura Bhatti, Gadkari Square, Kalmeshwar Road,
+                        Saoner,441107</p> 
+                   </div>
+                   <h3>Phone</h3> 
+                   <div>
+                      <i class="fas fa-phone-alt get"></i>
+                      <p>(+91) 999 999 9999
+                        <br> (+91) 888 888 8888</p> 
+                   </div>
+                   <h3>Support</h3> 
+                   <div>
+                      <i class="fal fa-envelope-open-text get"></i>
+                      <p>saraswatjrcollege@rediffmail.com <br> helpdesk@educa.com</p> 
+                   </div>
+                   <h3>Follow Us</h3>
+                   <div class="pro-links">
+                       <i class="fab fa-facebook"></i>
+                       <i class="fab fa-instagram"></i>
+                       <i class="fab fa-linkedin-in"></i>
+                       <i class="fab fa-behance"></i>
+                   </div> 
+                </div>
+             </div>
+
+             <div class="form">
+                 <h4>Let's Connect</h4>
+                 <p>Drop A Message</p>
+                 <div class="form-row">
+                     <input type="text" placeholder="Your Name">  
+                     <input type="text" placeholder="Email">
+                 </div>
+                 <div class="form-col">
+                     <input type="text" placeholder="Subject">
+                 </div>
+                 <div class="form-col">
+                   <textarea name="" id="" cols="30" rows="8" placeholder="How can we help you!"></textarea>
+                </div>
+                <div class="form-col">
+                   <button>Send Message</button>
+                </div>
+             </div>
+       </section>
+
+       <section id="map">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3715.16468987738!2d78.91554611444177!3d21.38341908095302!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd4e4057ea0803b%3A0xcad7d84cf6b63966!2ssaraswat%20public%20school!5e0!3m2!1sen!2sin!4v1641848384475!5m2!1sen!2sin" 
+        style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+       </section>
+
+
+
+   <br>
+   <br>
+   <br>
+   <br>
+
+ 
+
+
+
+
+    <footer>
+        <div class="footer-col">
+          <h3>Top Teachers</h3>
+          <li>Vivek Bende sir</li>
+          <li>Dharmendra Tiwari Sir</li>
+          <li>Shikha Jain Mam</li>
+          <li>Chandrakant Parate Sir</li>
+        </div>
+        <div class="footer-col">
+            <h3>Features</h3>
+            <li>Smart Classes</li>
+            <li>Online Addmission</li>
+            <li>Manage Reputation</li>
+            <li>Playgrounds</li>
+        </div>
+        <div class="footer-col">
+            <h3>Resources</h3>
+            <li>Proper Guidance</li>
+            <li>Experts</li>
+            <li>Computer Labs</li>
+            <li>Research Center</li>
+        </div>
+        <div class="footer-col">
+            <h3>Legal</h3>
+            <li>Freedom Of Information</li>
+            <li>Accessiblity</li>
+            <li>Charity Gateway</li>
+            <li>Mordern Salavary Statement</li>
+        </div>
+        <div class="footer-col">
+            <h3>News Letter</h3>
+            <p>You can trust us,We only send important information.</p>
+            <div class="subscribe">
+                <input type="text" placeholder="Your Email Adderss">
+                <a href="#" class="yellow">SUBSCRIBE</a>
+
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saraswat Jr. college of science </title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
+
+</head>
+
+
+<body>
+    <!--navigation-->
+   <nav>
+       <img src="LOGOS/sasa.png" alt="">
+       <div class="navigation">
+           <ul>
+               <li><a href="sarsawat.html">Home</a></li>
+               <li><a href="about.html">About</a></li>
+               <li><a href="blog.html">Blog</a></li>
+               <li><a class="active" href="courses.html">Courses</a></li>
+               <li><a href="contact.html">Contact</a></li>
+
+           </ul>
+       </div>
+   </nav>
+
+   <!--Home-->
+   
+   <section id="about-home">
+       <h2>Enroll Our Popular Courses And Skill Up </h2>    
+   </section>
+     
+   <br>
+   <br>
+   <br>
+   <br>
+
+ 
+    <section id="course-inner">
+        <div class="overview">
+            <img class="course-img" src="LOGOS/code.jpg" alt="">
+            <div class="course-head">
+                <div class="c-name">
+                    <h2>Computer Science</h2>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <p>Computer science is the study of computers and computing as well as their theoretical and practical applications. Computer science applies the principles of mathematics, engineering, and logic to a plethora of functions, including
+                       algorithm formulation, software and hardware development, and artificial intelligence.</p>
+                </div>
+                <span>$198.10</span>
+            </div>
+            <h3>Instructor</h3>
+            <div class="tutor">
+                <img src="LOGOS/paratesir.jpg" alt="">
+                <div class="tutor-det">
+                    <h5>Chandrakant Parate</h5>
+                    <p>Computer Teacher</p>
+                </div>
+            </div>
+            <hr>
+              <h3>Course Overview</h3>
+              <p>Computer science is the study of computation, automation, and information.Computer science spans theoretical disciplines, such as algorithms, theory of computation, and information theory, to practical disciplines including the design and implementation of hardware and software.Computer science is generally considered an area of academic research and distinct from computer programming.
+                Algorithms and data structures have been called the heart of computer science.The theory of computation concerns abstract models of computation and general classes of problems that can be solved using them. Cryptography and computer security study the means for secure communication and prevent security vulnerabilities.<br><br><br>
+                 Computer graphics and computational geometry study the generation of images. Programming language theory considers approaches to the description of computational processes and database theory
+                 concerns the management of repositories of data. Human–computer interaction investigates the interfaces through which humans and computers interact, and software engineering focuses on the design and principles behind developing software. Areas such as operating systems, networks and embedded systems investigate the principles and design behind complex systems. Computer architecture describes construction of computer components and computer-operated equipment.
+                  Artificial intelligence and machine learning aim to synthesize goal-orientated processes sucThe theory of computation concerns abstract models of computation and general classes of problems that can be solved using them. Cryptography and computer security study the means for secure communication and prevent security vulnerabilities. Computer graphics and computational geometry study the generation of images. Programming language theory considers approaches to the description of computational processes and database theory concerns the 
+                  management of repositories of data. Human–computer interaction investigates the interfaces through which humans and computers interact, and software engineering focuses on 
+                  the design and principles behind developing software. Areas such as operating systems, networks and embedded systems investigate the principles and design behind complex systems. Computer architecture describes construction of computer components and computer-operated equipment. Artificial intelligence and machine
+                   learning aim to synthesize goal-orientated processes such as problem-solving, decision-making, environmental adaptation, planning and learning found in humans and animals.<br><br><br>
+                   Within artificial intelligence, computer vision aims to understand and process image and video data, while natural language processing aims to understand and process textual and linguistic data.The fundamental concern of computer science is determining what can and cannot be automated.The Turing Award is generally recognized as the highest distinction in computer science.Programming language theory is a branch of computer science that deals with the design, implementation, analysis, characterization, and classification of programming languages and their individual features. It falls within the
+                    discipline of computer science, both depending on and affecting mathematics, software engineering, and linguistics. It is an active research area, with numerous dedicated academic journals.Formal methods are a particular kind of mathematically based technique for the specification, development and verification of software and hardware systems.The use of formal methods for software and hardware design is motivated by the expectation that, as in other engineering disciplines, performing appropriate mathematical analysis can contribute to the reliability and robustness of a design.
+                     They form an important theoretical underpinning for software engineering, especially where safety or security is involved.<br><br><br> Formal methods are a useful adjunct to software testing since they help avoid errors and can also give a framework for testing. For industrial use, tool support is required. However, the high cost of using formal methods means that they are usually only used in the development of high-integrity and life-critical systems, where safety or security is of utmost importance.<br><br><br> Formal methods are best described as the application of a fairly broad variety of theoretical
+                     computer science fundamentals, in particular logic calculi, formal languages, automata theory, and program semantics, but also type systems and algebraic data types to problems in software and hardware specification and verification.Artificial intelligence (AI) aims to or is required to synthesize goal-orientated processes such as problem-solving, decision-making, environmental adaptation, learning, and communication found in humans and animals. From its origins in cybernetics and in the Dartmouth Conference (1956), artificial intelligence research has been necessarily cross-disciplinary, drawing on areas
+                      of expertise such as applied mathematics, symbolic logic, semiotics, electrical engineering, philosophy of mind,
+                      neurophysiology, and social intelligence. AI is associated in the popular mind with robotic development, but the main field of practical application has been as an embedded component in areas of software development, which require computational understanding. The starting point in the late 1940s was Alan Turing's question "Can computers think?", and the question remains effectively unanswered, although the Turing test is still used to assess computer output on the scale of human intelligence. But the automation of evaluative and predictive tasks has been increasingly successful as a substitute for human 
+                     monitoring and intervention in domains of computer application involving complex real-world data.Computer architecture, or digital computer organization, is the conceptual design and fundamental operational structure of a computer system. It focuses largely on the way by which the central processing unit performs internally and accesses addresses in memory.Computer engineers study computational logic and design of computer hardware, from individual processor components, microcontrollers, personal computers to supercomputers and embedded systems. The term “architecture” in computer literature can be traced to the work of Lyle R.
+                      Johnson and Frederick P. Brooks, Jr.<br><br><br> Members of the Machine Organization department in IBM's main research center in 1959.Computer Science, known by its near synonyms, Computing, Computer Studies, has been taught in UK schools since the days of batch processing, mark sensitive cards and paper tape but usually to a select few students.
+                      In 1981, the BBC produced a micro-computer and classroom network and Computer Studies became common for GCE O level students (11–16-year-old), and Computer Science to A level students. Its importance was recognised, and it became a compulsory part of the National Curriculum, for Key Stage 3 & 4. In September 2014 it became an entitlement for all pupils over the age of 4.
+                      In the US, with 14,000 school districts deciding the curriculum, provision was fractured.
+                      According to a 2010 report by the Association for Computing Machinery (ACM) and Computer Science Teachers Association (CSTA), only 14 out of 50 states have adopted significant education standards for high school computer science.
+                      Israel, New Zealand, and South Korea have included computer science in their national secondary education curricula,and several others are following.</p>
+                      <hr>
+                      <h3>What you'll Learn</h3>
+                      <div class="learn">
+                          <p><i class="far fa-check-circle"></i>Learn Computer Science to enhance your study.</p>
+                          <p><i class="far fa-check-circle"></i>Everythimg you need to become a Html expert.</p>
+                          <p><i class="far fa-check-circle"></i>All about Tags, Attributes, Functions and Arrays.</p>
+                          <p><i class="far fa-check-circle"></i>Object-Oriented Programmes.</p>
+                          <p><i class="far fa-check-circle"></i>Project-drivenlearning with plenty of examples.</p>
+                      </div>
+        </div>
+        <div class="enroll">
+            <h3>This course Includes</h3>
+            <p><i class="far fa-video"></i>52 hours video</p>
+            <p><i class="far fa-newspaper"></i>100+ Articles</p>
+            <p><i class="far fa-cloud-download"></i>Downloadable courses book</p>
+            <p><i class="far fa-infinity"></i>Full lifetime access</p>
+            <p><i class="far fa-mobile-alt"></i>Access on mobile and TV</p>
+            <p><i class="far fa-paperclip"></i>Assignments</p>
+            <p><i class="far fa-trophy-alt"></i>Certificate of completion</p>
+            <div class="enroll-btn">
+                <a class="blue" href="#">Enroll Course</a>
+            </div>
+        </div>
+    </section>
+
+
+
+
+    <footer>
+        <div class="footer-col">
+          <h3>Top Teachers</h3>
+          <li>Vivek Bende sir</li>
+          <li>Dharmendra Tiwari Sir</li>
+          <li>Shikha Jain Mam</li>
+          <li>Chandrakant Parate Sir</li>
+        </div>
+        <div class="footer-col">
+            <h3>Features</h3>
+            <li>Smart Classes</li>
+            <li>Online Addmission</li>
+            <li>Manage Reputation</li>
+            <li>Playgrounds</li>
+        </div>
+        <div class="footer-col">
+            <h3>Resources</h3>
+            <li>Proper Guidance</li>
+            <li>Experts</li>
+            <li>Computer Labs</li>
+            <li>Research Center</li>
+        </div>
+        <div class="footer-col">
+            <h3>Legal</h3>
+            <li>Freedom Of Information</li>
+            <li>Accessiblity</li>
+            <li>Charity Gateway</li>
+            <li>Mordern Salavary Statement</li>
+        </div>
+        <div class="footer-col">
+            <h3>News Letter</h3>
+            <p>You can trust us,We only send important information.</p>
+            <div class="subscribe">
+                <input type="text" placeholder="Your Email Adderss">
+                <a href="#" class="yellow">SUBSCRIBE</a>
+
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saraswat Jr. college of science </title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
+
+</head>
+
+
+<body>
+    <!--navigation-->
+   <nav>
+       <img src="LOGOS/sasa.png" alt="">
+       <div class="navigation">
+           <ul>
+               <li><a href="sarsawat.html">Home</a></li>
+               <li><a href="about.html">About</a></li>
+               <li><a href="blog.html">Blog</a></li>
+               <li><a class="active" href="courses.html">Courses</a></li>
+               <li><a href="contact.html">Contact</a></li>
+
+           </ul>
+       </div>
+   </nav>
+
+   <!--Home-->
+   
+   <section id="about-home">
+       <h2>Courses in our college </h2>    
+   </section>
+   
+ 
+        <!--Courses-->
+    
+
+        <section id="course">
+            <h1>Our Popular Courses</h1>
+            <p>These are the science subjects to make students future bright</p>
+            <div class="course-box">
+                <div onclick="window.location.href='courseinner.html';" class="course">
+                    <img src="LOGOS/code.jpg" alt="">
+                    <div class="details">
+                        <span>
+                            Updated on 13/12/21
+                        </span>
+                        <h6>Computer Science</h6>
+                        <div class="star">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <span>(447)</span>
+                        </div>
+                    </div>
+                    <div class="cost">
+                        $198.10
+                    </div>
+                </div>
+    
+                <div class="course">
+                    <img src="LOGOS/general1.jpg" alt="">
+                    <div class="details">
+                        <span>
+                            Updated on 13/12/21
+                        </span>
+                        <h6>General Science</h6>
+                        <div class="star">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <span>(447)</span>
+                        </div>
+                    </div>
+                    <div class="cost">
+                        $99.97
+                    </div>
+                </div>
+    
+                <div class="course">
+                    <img src="LOGOS/crop.jpg" alt="">
+                    <div class="details">
+                        <span>
+                            Updated on 13/12/21
+                        </span>
+                        <h6>Crop Science</h6>
+                        <div class="star">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <span>(447)</span>
+                        </div>
+                    </div>
+                    <div class="cost">
+                        $66.61
+                    </div>
+                </div>
+    
+                <div class="course">
+                    <img src="LOGOS/commerce.jpg" alt="">
+                    <div class="details">
+                        <span>
+                            Updated on 13/12/21
+                        </span>
+                        <h6>Commerce</h6>
+                        <div class="star">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <span>(447)</span>
+                        </div>
+                    </div>
+                    <div class="cost">
+                        $159.85
+                    </div>
+                </div>
+    
+                <div class="course">
+                    <img src="LOGOS/fishery.jpeg" alt="">
+                    <div class="details">
+                        <span>
+                            Updated on 13/12/21
+                        </span>
+                        <h6>Fishery Science</h6>
+                        <div class="star">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <span>(447)</span>
+                        </div>
+                    </div>
+                    <div class="cost">
+                        $59.95
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+ 
+    
+
+
+
+
+
+
+    <footer>
+        <div class="footer-col">
+          <h3>Top Teachers</h3>
+          <li>Vivek Bende sir</li>
+          <li>Dharmendra Tiwari Sir</li>
+          <li>Shikha Jain Mam</li>
+          <li>Chandrakant Parate Sir</li>
+        </div>
+        <div class="footer-col">
+            <h3>Features</h3>
+            <li>Smart Classes</li>
+            <li>Online Addmission</li>
+            <li>Manage Reputation</li>
+            <li>Playgrounds</li>
+        </div>
+        <div class="footer-col">
+            <h3>Resources</h3>
+            <li>Proper Guidance</li>
+            <li>Experts</li>
+            <li>Computer Labs</li>
+            <li>Research Center</li>
+        </div>
+        <div class="footer-col">
+            <h3>Legal</h3>
+            <li>Freedom Of Information</li>
+            <li>Accessiblity</li>
+            <li>Charity Gateway</li>
+            <li>Mordern Salavary Statement</li>
+        </div>
+        <div class="footer-col">
+            <h3>News Letter</h3>
+            <p>You can trust us,We only send important information.</p>
+            <div class="subscribe">
+                <input type="text" placeholder="Your Email Adderss">
+                <a href="#" class="yellow">SUBSCRIBE</a>
+
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saraswat Jr. college of science </title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
+
+</head>
+
+
+<body>
+    <!--navigation-->
+   <nav>
+       <img src="LOGOS/sasa.png" alt="">
+       <div class="navigation">
+           <ul>
+               <li><a class="active" href="#">Home</a></li>
+               <li><a href="about.html">About</a></li>
+               <li><a href="blog.html">Blog</a></li>
+               <li><a href="courses.html">Courses</a></li>
+               <li><a href="contact.html">Contact</a></li>
+
+           </ul>
+       </div>
+   </nav>
+
+   <!--Home-->
+   
+   <section id="home">
+       <h2>Welcome To Saraswat Junior College of Science</h2>
+       <p>Saraswat Junior College Of Science And Commerce is a co-educational school, Located at natural environment,
+         the school has been constructed to the optimum infrastructural standards keeping in mind the
+         desires and safety of young minds.
+         The infrastructure has been carefully designed to enable the learning process and facilitate
+         the students to move freely. The pre-primary & primary sections are on the ground floor and designed 
+         for easy access to resources like outdoor play area.We have well ventilated and spacious classrooms.
+         Our computer labs, Science Lab and Maths lab, Music room, Activity room are well equipped.
+         In addition to this our students enjoy library classes in the fully resourced library.
+         The school is well equipped with CCTVS for the safety and security of the students.</p>
+         <div class="btn">
+             <a class="blue" href="#">Learn More</a>
+             <a class="yellow" href="#">Visit Courses</a>
+         </div>
+   </section>
+
+   <!--features-->
+
+   <section id="features">
+       <h1>Awesome Features</h1>
+       <p>Replenish man have thing gatherings lights yeilds shall you</p>
+       <div class="fea-base">
+           <div class="fea-box">
+            <i class="fas fa-graduation-cap"></i>
+            <h3>Scholarship Facility</h3>
+            <p>To succeed in life,you needtwo things:Ignorance and Confidence</p>
+           </div>
+           <div class="fea-box">
+            <i class="fas fa-laptop-code"></i>
+            <h3>Computer Center</h3>
+            <p>Our computer center has latest computers,wifi system of internet.Students stay abreast with latest developments in the world of information technology </p>
+           </div>
+           <div class="fea-box">
+            <i class="fas fa-flask"></i>
+            <h3>Science Lab</h3>
+            <p>Precious and well equipped science labs which helps students to think practically</p>
+           </div>
+       </div>
+   </section>
+
+    <!--Courses-->
+    
+
+    <section id="course">
+        <h1>Our Popular Courses</h1>
+        <p>These are the science subjects to make students future bright</p>
+        <div class="course-box">
+            <div class="course">
+                <img src="LOGOS/code.jpg" alt="">
+                <div class="details">
+                    <span>
+                        Updated on 13/12/21
+                    </span>
+                    <h6>Computer Science</h6>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <span>(447)</span>
+                    </div>
+                </div>
+                <div class="cost">
+                    $198.10
+                </div>
+            </div>
+
+            <div class="course">
+                <img src="LOGOS/general1.jpg" alt="">
+                <div class="details">
+                    <span>
+                        Updated on 13/12/21
+                    </span>
+                    <h6>General Science</h6>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <span>(447)</span>
+                    </div>
+                </div>
+                <div class="cost">
+                    $99.97
+                </div>
+            </div>
+
+            <div class="course">
+                <img src="LOGOS/crop.jpg" alt="">
+                <div class="details">
+                    <span>
+                        Updated on 13/12/21
+                    </span>
+                    <h6>Crop Science</h6>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <span>(447)</span>
+                    </div>
+                </div>
+                <div class="cost">
+                    $66.61
+                </div>
+            </div>
+
+            <div class="course">
+                <img src="LOGOS/commerce.jpg" alt="">
+                <div class="details">
+                    <span>
+                        Updated on 13/12/21
+                    </span>
+                    <h6>Commerce</h6>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <span>(447)</span>
+                    </div>
+                </div>
+                <div class="cost">
+                    $159.85
+                </div>
+            </div>
+
+            <div class="course">
+                <img src="LOGOS/fishery.jpeg" alt="">
+                <div class="details">
+                    <span>
+                        Updated on 13/12/21
+                    </span>
+                    <h6>Fishery Science</h6>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <span>(447)</span>
+                    </div>
+                </div>
+                <div class="cost">
+                    $59.95
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--Registration-->
+
+    <section id="registration">
+        <div class="reminder">
+            <p>Get online classes for free</p>
+            <h1>Register to get it</h1>
+            <div class="time">
+                <div class="date">
+                    20<br>days
+                </div>
+                <div class="date">
+                    23<br>Hours
+                </div>
+                <div class="date">
+                    06<br>Minutes
+                </div>
+                <div class="date">
+                    58<br>Seconds
+                </div>
+            </div>
+        </div>
+
+
+        <div class="form">
+            <h5>Create Free Account For Now</h5>
+            <input type="text" placeholder="Name" name="" id="">
+            <input type="text" placeholder="Email Address" name="" id="">
+            <input type="text" placeholder="Phone Number" name="" id="">
+            <div class="btn">
+                <a class="yellow" href="#">Submit</a>
+            </div>
+        </div>
+    </section>
+<br>
+    <footer>
+        <div class="footer-col">
+          <h3>Top Teachers</h3>
+          <li>Vivek Bende sir</li>
+          <li>Dharmendra Tiwari Sir</li>
+          <li>Shikha Jain Mam</li>
+          <li>Chandrakant Parate Sir</li>
+        </div>
+        <div class="footer-col">
+            <h3>Features</h3>
+            <li>Smart Classes</li>
+            <li>Online Addmission</li>
+            <li>Manage Reputation</li>
+            <li>Playgrounds</li>
+        </div>
+        <div class="footer-col">
+            <h3>Resources</h3>
+            <li>Proper Guidance</li>
+            <li>Experts</li>
+            <li>Computer Labs</li>
+            <li>Research Center</li>
+        </div>
+        <div class="footer-col">
+            <h3>Legal</h3>
+            <li>Freedom Of Information</li>
+            <li>Accessiblity</li>
+            <li>Charity Gateway</li>
+            <li>Mordern Salavary Statement</li>
+        </div>
+        <div class="footer-col">
+            <h3>News Letter</h3>
+            <p>You can trust us,We only send important information.</p>
+            <div class="subscribe">
+                <input type="text" placeholder="Your Email Adderss">
+                <a href="#" class="yellow">SUBSCRIBE</a>
+
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
+/*Navigation*/
+nav{
+    position: fixed;
+    width: 85%;
+    background-color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0vw 8vw;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0,0.15 );
+    z-index: 999;
+
+}
+nav img {
+    width: 150px;
+    cursor: pointer;
+}
+nav .navigation ul{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+nav .navigation ul li{
+    list-style: none;
+    margin-right: 30px;
+
+}
+nav .navigation ul li a{
+    text-decoration: none;
+    color: rgb(21, 21, 100);
+    font-size: 16px;
+    font-weight: 500;
+    transition: 0.3s ease;
+}
+nav .navigation ul li a.active,
+nav .navigation ul li a:hover{
+    color: #fdc93b;
+}
+/*Home*/
+
+#home{
+    background-image: linear-gradient(rgba(9, 5, 54, 0.3),rgba(5, 4, 46,0.7)),
+    url("LOGOS/nature.jpg");
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 40px;
+}
+
+#home h2{
+    color: #fff;
+    font-size: 2.2rem;
+    letter-spacing: 1px;
+}
+#home p{
+    width: 50%;
+    color: #fff;
+    font-size: 0.9rem;
+    line-height: 20px;
+}
+#home a{
+    text-decoration: none;
+    font-size: 0.9rem;
+    padding: 13px 35px;
+    background-color: #fff;
+    font-weight: 600;
+    border-radius: 5px;
+}
+#home.btn{
+    margin-top: 30px;
+}
+#home a.blue{
+    color: #fff;
+    background: rgb(21, 21, 100);
+}
+#home a.blue:hover{
+    color: rgb(21, 21, 100);
+    background: #fff;
+}
+#home a.yellow{
+    color: #fff;
+    background: #fdc93b;
+}
+#home a.yellow:hover{
+    color: #fdc93b;
+    background: #fff;
+}
+
+/*features*/
+
+#features{
+    padding: 5vw 8vw 0 8vw;
+    text-align: center;
+
+}
+#features .fea-base{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-gap: 1rem;
+}
+#features .fea-box{
+    background: #f9f9ff;
+    text-align: start;
+}
+#features .fea-box i{
+    font-size: 2.3rem;
+    color: rgb(44, 44, 80);
+
+}
+#features .fea-box h3{
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: rgb(46, 46, 59);
+    padding: 13px 0 7px 0;
+}
+h1{
+    color: rgb(21, 21, 100);
+    font-size: 35px;
+    font-family: cursive;
+}
+#features .fea-box p{
+    font-size: 1rem;
+    font-weight: 400;
+    color: rgb(70, 70, 87);
+    
+}
+
+/*Course*/
+
+#course{
+    padding: 8vw 8vw 8vw 8vw;
+    text-align: center;
+}
+#course .course-box{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-gap: 1rem;
+    margin-top: 50px;
+}
+#course .course{
+    text-align: start;
+    background: #f9f9ff;
+    height: 100%;
+    position: relative;
+}
+#course .course img{
+    width: 100%;
+    height: 60%;
+    background-size: cover;
+    background-position: center;
+}
+#course .course .details{
+    padding: 15px 15px 0 15px;
+}
+#course .course .details i{
+    color: #fdc93b;
+    font-size: .9rem;
+}
+#course .course .cost{
+    background-color: rgb(74, 74, 136);
+    color: #fff;
+    line-height: 70px;
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    border-radius: 50%;
+    position: absolute;
+    right: 15px;
+    bottom: 100px;
+}
+#registration{
+    padding: 6vw 8vw 6vw 8vw;
+    background-image: 
+    url("LOGOS/hero-1.jpg");
+    width: 84%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#registration .reminder{
+    color: #fff;
+}
+#registrartion .reminder h1{
+      color: #fff;
+}
+#registration .reminder .time{
+    display: flex;
+    margin-top: 40px;
+}
+#registration .reminder .time .date{
+    text-align: center;
+    padding: 13px 33px;
+    background: rgba(255,255,255,0.25);
+    backdrop-filter: blur(4px);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    border-radius: 10px;
+    margin: 0 5px 10px 5px;
+    border: 2px solid rgba(255,255,255,0.18);
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+#registration .form{
+   background: #fff;
+    border-radius: 8px;
+    display: flex;
+    flex-direction:column ;
+    padding: 40px;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+}
+#registration .form input{
+    margin: 15px 0;
+    padding: 15px 10px;
+    border-radius: 1px solid rgb(84,40,241);
+    outline: none;
+}
+#registration .form a.yellow{
+    text-decoration: none;
+    font-size: 0.9rem;
+    padding: 13px 35px;
+    background-color: #fff;
+    font-weight: 600;
+    border-radius: 5px;
+    color: #fff;
+    background: #fdc93b;
+}
+#registration .form a.yellow:hover{
+    color: #fdc93b;
+    background: #fff;
+}
+
+/* Footer */
+
+footer{
+   padding: 8vw;
+   background-color: #101C32;
+   display: flex;
+   justify-content: space-between;
+   align-items: flex-start;
+   flex-wrap: wrap;
+}
+footer .footer-col{
+    padding: 40px;
+}
+footer h3{
+    color: rgb(241,240,245);
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+footer li{
+    list-style: none;
+    color: #7b838a;
+    padding: 10px 0;
+    font-size: 15px;
+    cursor: pointer;
+    font-family: cursive;
+    transition: 0.3s ease;
+}
+footer li:hover{
+    color: rgb(241,240,245);
+}
+footer p{
+    color: #7b838a;
+}
+footer .subscribe{
+    margin-top: 20px;
+}
+footer input{
+    width: 220px;
+    padding: 15px 12px;
+    border: none;
+    outline: none;
+    color: #fff;
+    background: #334f6c;
+}
+footer .subscribe a{
+    text-decoration: none;
+    font-size: 0.9rem;
+    padding: 12px 15px;
+    background-color: #fff;
+    font-weight: 600;
+}
+footer .subscribe a.yellow{
+    color: #2c2c2c;
+    background: #fdc93b;
+    transition: 0.3s ease;
+}
+footer .subscribe a.yellow:hover{
+    color: #fdc93b;
+    background: #fff;
+}
+/*about*/
+
+#about-home{
+    background-image:  url("LOGOS/about.jpeg");
+    width: 100%;
+    height: 90vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 40px;
+}
+#about-home h2{
+    color: #fff;
+    font-size: 2.2rem;
+    letter-spacing: 1px;
+}
+#about-container {
+    align-items: center;
+    padding: 8vw 8vw 2vw 8vw;
+}
+#about-container .about-text h2{
+    font-family: cursive;
+    font-weight: 650;
+    color: #fdc93b;
+}
+#about-container .about-text p{
+    color: #686f7a;
+    font-weight: 300;
+}
+
+
+
+/*Blog*/
+
+
+
+#blog-container{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 8vw;
+}
+#blog-container .blogs{
+    width: 60%;
+}
+#blog-container .cate{
+    width: 30%;
+}
+#blog-container .cate h2{
+  padding-bottom: 7px;
+}
+#blog-container .cate a{
+    text-decoration: none;
+    color: #757373;
+    font-weight: 500;
+    line-height: 45px;
+  }
+#blog-container .blogs img{
+    width: 100%;
+    border-radius: 19px;
+}
+#blog-container .blogs .post{
+    padding-bottom: 60px;
+}
+#blog-container .blogs .post h3{
+    color: #29303b;
+    padding: 15px 0 10x 0;
+    font-family: cursive;
+}
+#blog-container .blogs .post p{
+    color:#757373;
+    padding-bottom: 30px;
+}
+#blog-container .blogs .post a{
+    text-decoration: none;
+    font-size: 0.9rem;
+    padding: 13px 35px;
+    background-color: rgb(21,21,100);
+    color: #fff;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+/*courses_inner*/
+
+#course-inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 8vw;
+}
+#course-inner .overview{
+    width: 70%;
+}
+#course-inner .overview .course-img{
+    width: 100%;
+    height:60vh;
+    object-fit: cover;
+    border-radius: 12px;
+    margin-bottom: 20px;
+}
+#course-inner .overview .course-head{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+#course-inner .overview .course-head .c-name{
+  width: 70%;  
+}
+#course-inner .overview .course-head .c-name h2{
+    color: #29303b;
+    font-family: cursive;
+}
+#course-inner .overview .course-head .c-name .star{
+    margin: 6px 0;
+}
+#course-inner .overview .course-head .c-name .star i{
+    color: gold;
+}
+#course-inner .overview .course-head .c-name p{
+    font-size: 15px;
+}
+#course-inner .overview .course-head span{
+    padding: 16px 22px;
+    border-radius: 5px;
+    color: #5838fc;
+    font-size: 24px;
+    font-weight: 700;
+    background-color: lightgrey;
+}
+#course-inner .learn p{
+      font-size: 15px;
+      padding-bottom: 15px;
+}
+
+#course-inner .learn p i{
+    color: #654ce4;
+    font-weight: 700;
+    margin-right: 20px;
+}
+
+#course-inner .tutor{
+   display: flex;
+
+}
+
+
+#course-inner .tutor img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-right: 20px; 
+ }
+ 
+#course-inner .tutor h5{
+    font-size: 15px;
+}
+
+#course-inner h3{
+    padding: 35px 0 25px 0;
+    color: #29303b;
+}
+
+#course-inner p{
+    color: #64626e;
+}
+
+#course-inner hr{
+    height: 1px;
+    background-color: rgba(236, 226, 229, 0.5);
+}
+#course-inner .enroll{
+     width: 300px;
+     padding: 0 30px 30px 30px;
+     border-radius: 11px;
+     box-shadow: 0px 20px 40px 0 rgb(11 2 55 / 8%) ;
+}
+
+#course-inner .enroll h3{
+    padding-bottom: 10px;
+}
+#course-inner .enroll p{
+    font-size: 15px;
+    color: #64626e;
+    margin: 15px 0;
+}
+
+#course-inner .enroll p i{
+    color: #654ce4;
+    font-weight: 500;
+    margin-right: 18px;
+    width: 16px;
+    height: 16px;
+    line-height: 16px;
+    text-align: center;
+}
+
+#course-inner .enroll .enroll-btn{
+    padding: 25px 0 20px 0;
+    margin: auto;
+    text-align: center;
+}
+
+#course-inner .enroll .enroll-btn a{
+      text-decoration: none;
+      font-size: .8rem;
+      padding: 13px 45px ;
+      border-radius: 5px;
+      font-weight: 600;
+      color: #fff;
+      background-color: rgb(50, 50, 136);
+}
+
+
+
+/** contacts**/
+
+
+#contact{
+    padding: 8vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+#contact .getin{
+    width: 350px;
+}
+
+#contact .getin h2{
+    color: #2c234d;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: .8;
+    margin-bottom: 16px;
+}
+
+
+#contact .getin p{
+   color: #686875;
+   line-height: 23px;
+   margin-bottom: 35px;
+   padding-bottom: 25px;
+   border-bottom: 1px solid #e5e4ed;
+}
+
+#contact .getin h3{
+    color: #2c234d;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 26px;
+    margin-bottom: 15px;
+}
+
+#contact .getin .getin-details div{
+      display: flex;
+}
+
+#contact .getin .getin-details div .get{
+       font-size: 16px;
+       line-height: 22px;
+       color: #5838fc;
+       margin-right: 20px;
+}
+
+#contact .getin .getin-details div p{
+    font-size: 14px;
+    border-bottom: none;
+    line-height: 22px;
+    margin-bottom: 15px;
+}
+
+#contact .getin .getin-details .pro-links i{
+    margin-right: 8px;
+}
+
+
+#contact .form{
+    width: 60%;
+    background: #f7f6fa;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+#contact .form h4{
+    font-size: 40px;
+    color: #2c234d;
+    line-height: 30px;
+    margin-bottom: 8px;
+}
+
+#contact .form p{
+    color: #686875;
+    line-height: 24px;
+    padding-bottom: 25px;
+}
+
+#contact .form .form-row{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+#contact .form .form-row input{
+    width: 48%;
+    font-size: 14px;
+    font-weight: 400;
+    border-radius: 3px;
+    border: none;
+    background: #fff;
+    color: #7e7c87;
+    outline: none;
+    padding: 20px 30px;
+    margin-bottom: 20px;
+}
+
+#contact .form .form-col input,
+#contact .form .form-col textarea{
+    width: 91%;
+    font-size: 14px;
+    font-weight: 400;
+    border-radius: 3px;
+    border: none;
+    background: #fff;
+    color: #7e7c87;
+    outline: none;
+    padding: 20px 30px;
+    margin-bottom: 20px;
+}
+
+
+#contact .form button{
+    font-size: .9rem;
+    padding: 13px 25px;
+    background: rgb(21, 21, 100);
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    font-weight: 600;
+    cursor: pointer;
+    color: #fff;
+}
+#map{
+    width: 100%;
+    height: 70vh;
+}
+#map iframe{
+    width: 100%;
+    height: 100%;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saraswat Jr. college of science </title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
+
+</head>
+
+
+<body>
+    <!--navigation-->
+   <nav>
+       <img src="LOGOS/sasa.png" alt="">
+       <div class="navigation">
+           <ul>
+               <li><a href="sarsawat.html">Home</a></li>
+               <li><a class="active" href="about.html">About</a></li>
+               <li><a href="blog.html">Blog</a></li>
+               <li><a href="course.html">Courses</a></li>
+               <li><a href="contact.html">Contact</a></li>
+
+           </ul>
+       </div>
+   </nav>
+
+   <!--Home-->
+   
+   <section id="about-home">
+       <h2>About Our College</h2>    
+   </section>
+   
+   <section id="about-container">
+       
+       <div class="about-text">
+         <h2>Welcome to Saraswat Junior college</h2>
+         <p>Saraswat junior college is a co-educational school,
+            Located at natural environment, the school has been constructed to the optimum infrastructural
+            standards keeping in mind the desires and safety of young minds. The infrastructure has been
+            carefully designed to enable the learning process and facilitate the students to move freely.
+            The pre-primary & primary sections are on the ground floor and designed for easy access to
+            resources like outdoor play area.We have well ventilated and spacious classrooms. Our computer
+            labs, Science Lab and Maths lab, Music room, Activity room are well equipped. 
+            In addition to this our students enjoy library classes in the fully resourced library. 
+            The school is well equipped with CCTVS for the safety and security of the students.</p>  
+       </div>
+       <div class="about-text">
+           <h2>Vision</h2>
+           <p>Our vision is to provide a stress free, happy, caring and stimulating environment
+             where children will recognize & achieve their fullest potential,
+             so that they can become cultured, compassionate & responsible human beings.</p>
+       </div>
+       <div class="about-text">
+           <h2>Mission</h2>
+           <p>Our mission is to provide individualized education that addresses students unique learning style,
+            cultivate independents through, and promotes the building of character that would enable them to 
+            contribute to their country and the world in meaningful and positive ways.
+            Our student should be equipped to become leaders in a highly competitive global world.
+            We celebrate the pursuit if lifelong learning and are committed to nurturing high 
+            self esteem and respect for others.</p>
+       </div>
+   </section>
+
+   <!--features-->
+
+   <section id="features">
+       <h1>Awesome Features</h1>
+       <p>Replenish man have thing gatherings lights yeilds shall you</p>
+       <div class="fea-base">
+           <div class="fea-box">
+            <i class="fas fa-graduation-cap"></i>
+            <h3>Scholarship Facility</h3>
+            <p>To succeed in life,you needtwo things:Ignorance and Confidence</p>
+           </div>
+           <div class="fea-box">
+            <i class="fas fa-laptop-code"></i>
+            <h3>Computer Center</h3>
+            <p>Our computer center has latest computers,wifi system of internet.Students stay abreast with latest developments in the world of information technology </p>
+           </div>
+           <div class="fea-box">
+            <i class="fas fa-flask"></i>
+            <h3>Science Lab</h3>
+            <p>Precious and well equipped science labs which helps students to think practically</p>
+           </div>
+       </div>
+   </section>
+
+
+    <!--Courses-->
+    
+
+
+
+    <!--Registration-->
+
+
+    <footer>
+        <div class="footer-col">
+          <h3>Top Teachers</h3>
+          <li>Vivek Bende sir</li>
+          <li>Dharmendra Tiwari Sir</li>
+          <li>Shikha Jain Mam</li>
+          <li>Chandrakant Parate Sir</li>
+        </div>
+        <div class="footer-col">
+            <h3>Features</h3>
+            <li>Smart Classes</li>
+            <li>Online Addmission</li>
+            <li>Manage Reputation</li>
+            <li>Playgrounds</li>
+        </div>
+        <div class="footer-col">
+            <h3>Resources</h3>
+            <li>Proper Guidance</li>
+            <li>Experts</li>
+            <li>Computer Labs</li>
+            <li>Research Center</li>
+        </div>
+        <div class="footer-col">
+            <h3>Legal</h3>
+            <li>Freedom Of Information</li>
+            <li>Accessiblity</li>
+            <li>Charity Gateway</li>
+            <li>Mordern Salavary Statement</li>
+        </div>
+        <div class="footer-col">
+            <h3>News Letter</h3>
+            <p>You can trust us,We only send important information.</p>
+            <div class="subscribe">
+                <input type="text" placeholder="Your Email Adderss">
+                <a href="#" class="yellow">SUBSCRIBE</a>
+
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saraswat Jr. college of science </title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
+
+</head>
+
+
+<body>
+    <!--navigation-->
+   <nav>
+       <img src="LOGOS/sasa.png" alt="">
+       <div class="navigation">
+           <ul>
+               <li><a href="sarsawat.html">Home</a></li>
+               <li><a href="about.html">About</a></li>
+               <li><a class="active"  href="blog.html">Blog</a></li>
+               <li><a href="courses.html">Courses</a></li>
+               <li><a href="contact.html">Contact</a></li>
+
+           </ul>
+       </div>
+   </nav>
+
+   <!--Home-->
+   
+   <section id="about-home">
+       <h2>Blogs</h2>    
+   </section>
+   
+    <section id="blog-container">
+        <div class="blogs">
+            <div class="post">
+                <img src="LOGOS/blog1.jpg">
+                <h3>Learn About computer science</h3>
+                <p>Computer science is the study of computation, automation, and information.
+                    Computer science spans theoretical disciplines, such as algorithms,
+                    theory of computation, and information theory, to practical disciplines
+                    including the design and implementation of hardware and software.
+                    Computer science is generally considered an area of academic 
+                    research and distinct from computer programming.</p>
+                    <a href="#">Read More</a>
+            </div>
+            <div class="post">
+                <img src="LOGOS/blog2.jfif">
+                <h3>Learn About General science</h3>
+                <p>The House of General Science was originally started by members of the Alpha Chi Sigma (ΑΧΣ)
+                    Chemistry Fraternity in Gibson Hall. 
+                    However, they realized that devoting a single floor to chemistry was too narrow,
+                    and could easily attract more members by branching into all sciences.</p>
+                    <a href="#">Read More</a>
+            </div>
+            <div class="post">
+                <img src="LOGOS/blog3.jfif">
+                <h3>Learn About Crop science</h3>
+                <p>Crop Science is the originator of two spin-off journals, 
+                   The Plant Genome and the Journal of Plant Registrations. The former was published as a supplement to Crop
+                   Science from 2006-2008, and launched as a separate open access journal later that year.
+                   The Journal of Plant Registrations was established as a separate journal in 2007,
+                   featuring an expanded format for crop registrations describing newly developed plant varieties, parental lines, germplasms, genetic stocks, and populations.</p>
+                    <a href="#">Read More</a>
+            </div>
+            <div class="post">
+                <img src="LOGOS/blog4.jfif">
+                <h3>Learn About fishery science</h3>
+                <p>Fisheries science is the academic discipline of managing and understanding fisheries.It is a multidisciplinary science, which draws on the disciplines of limnology,
+                     oceanography, freshwater biology, marine biology, meteorology, conservation, ecology, population dynamics, economics, statistics, decision analysis, management,
+                     and many others in an attempt to provide an integrated picture of fisheries.
+                     In some cases new disciplines have emerged,
+                     as in the case of bioeconomics and fisheries law.</p>
+                    <a href="#">Read More</a>
+            </div>
+            <div class="post">
+                <img src="LOGOS/bolg5.jpg">
+                <h3>Learn About Commerce</h3>
+                <p>Commerce is another word for trade or business, and can mean simply the buying and selling of goods and services. Some commerce involves high finance
+                   and big companies and organisations. Commercial real estate is a place for commerce,
+                   a place to do business. Interstate commerce is the movement of goods,
+                   money or transportation between two or more states.[2] International trade is the exchange of goods and services between countries.</p>
+                    <a href="#">Read More</a>
+            </div>
+        </div>
+
+        <div class="cate">
+            <h2>Categories</h2>
+            <hr>
+            <a href="#">Web Devlopment</a>
+            <hr>
+            <a href="#">Biotechnical Engineering</a>
+            <hr>
+            <a href="#">Agribusiness</a>
+            <hr>
+            <a href="#">Coastal Aquaculture and Marine</a>
+            <hr>
+            <a href="#">Business-to-Administration</a>
+            <hr>
+            <a href="#">Application software</a>
+            <hr>
+        </div>
+    </section>
+
+
+    
+
+
+
+    <!--Registration-->
+
+
+    <footer>
+        <div class="footer-col">
+          <h3>Top Teachers</h3>
+          <li>Vivek Bende sir</li>
+          <li>Dharmendra Tiwari Sir</li>
+          <li>Shikha Jain Mam</li>
+          <li>Chandrakant Parate Sir</li>
+        </div>
+        <div class="footer-col">
+            <h3>Features</h3>
+            <li>Smart Classes</li>
+            <li>Online Addmission</li>
+            <li>Manage Reputation</li>
+            <li>Playgrounds</li>
+        </div>
+        <div class="footer-col">
+            <h3>Resources</h3>
+            <li>Proper Guidance</li>
+            <li>Experts</li>
+            <li>Computer Labs</li>
+            <li>Research Center</li>
+        </div>
+        <div class="footer-col">
+            <h3>Legal</h3>
+            <li>Freedom Of Information</li>
+            <li>Accessiblity</li>
+            <li>Charity Gateway</li>
+            <li>Mordern Salavary Statement</li>
+        </div>
+        <div class="footer-col">
+            <h3>News Letter</h3>
+            <p>You can trust us,We only send important information.</p>
+            <div class="subscribe">
+                <input type="text" placeholder="Your Email Adderss">
+                <a href="#" class="yellow">SUBSCRIBE</a>
+
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
